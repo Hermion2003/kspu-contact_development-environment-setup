@@ -1,18 +1,23 @@
-# University Staff Directory
+## 2-ИЙ ЕТАП
+Ця сторінка є дуже простою, тому спеціальної підготовки середовища не було. Проте, до цього проєкту було підключено GitHub, щоб відстежувати зміни та робити коміти для їхнього збереження.
 
-This project is a simple web page built using **HTML** and **SCSS** compiled into **CSS**. The page contains a list of university staff members along with their contact information.
 
-## Features
 
-- A clean and responsive layout for displaying the staff directory.
-- SCSS is used for styling, compiled into CSS for production.
-- A list of university staff with details such as name, role, and contact information.
+# Довідник співробітників університету
 
-## Setup Instructions
+Цей проєкт представляє просту вебсторінку, створену за допомогою **HTML** та **SCSS**, який компілюється у **CSS**. Сторінка містить список співробітників університету разом із їхньою контактною інформацією.
 
-### 1. Clone the repository
+## Особливості
 
-Clone this repository to your local machine:
+- Чистий та адаптивний дизайн для відображення довідника співробітників.
+- Використання SCSS для стилізації, компільованого у CSS для продуктивного середовища.
+- Список співробітників університету з такими деталями, як ім'я, посада та контактна інформація.
+
+## Інструкції з налаштування
+
+### 1. Клонування репозиторію
+
+Склонуйте цей репозиторій на ваш локальний пристрій:
 
 ```bash
 git clone https://github.com/Hermion2003/kspu-contact
