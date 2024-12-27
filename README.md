@@ -8,13 +8,6 @@ This project is a simple web page built using **HTML** and **SCSS** compiled int
 - SCSS is used for styling, compiled into CSS for production.
 - A list of university staff with details such as name, role, and contact information.
 
-## Prerequisites
-
-To run or contribute to this project, you will need the following:
-
-- [Node.js](https://nodejs.org/) - A JavaScript runtime.
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) - Package managers for installing dependencies.
-
 ## Setup Instructions
 
 ### 1. Clone the repository
